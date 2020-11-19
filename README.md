@@ -60,7 +60,7 @@ Have questions or comments? Submit a regular [ISSUE](issues/new/choose) here wit
 
 ## Discord Channel
 
-Discussion Channels are available on Discord: [Permanent Link to Server](https://discord.gg/8kbAeud)
+Discussion Channels are available on the Azure Functions Discord Server: [Permanent Link to Server](https://discord.gg/x9gd3u7GKf)
 We ask everyone to be fair and helpful and to not spoil the challenges by publishing solutions prominently. The [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/?WT.mc_id=academic-10922-cxa) applies to all discussion channels.
 
 ## Solutions
