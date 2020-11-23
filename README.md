@@ -6,27 +6,27 @@ Every year around the holiday season, Dominique and Simone's friends eagerly loo
  
 Each of their friends is going to be presenting a home-cooked dish or group of dishes from their holiday traditions and culture that's meaningful to them. Each week, you can log on to the Seasons of Serverless site to solve another unique code challenge presented by one of Dominique and Simone's friends and focused on a culinary tradition from around the world.
 
-## Challenge 1: The Perfect Turkey 🦃
+## Challenge 1: The Perfect Turkey 🦃 
 
 **Featured Region: North America**
 
 **Your Chefs: Jen Looper, Cloud Advocate (Microsoft) and Darren Butler and Eric Yu, Microsoft Student Ambassadors**
 
 Here in North America, many families believe that the holidays are simply not complete without a proper turkey on the table. [Learn more about this challenge](Nov-23-2020.md).
+
 ## Contents
 
-- **[Contents Seasons of Serverless](#contents-seasons-of-serverless)**
-  - **[Main Goal](#main-goal)** 🎯
-  - **[Rules](#rules)** 🎫
-  - **[Suggested Resources](#suggested-resources)** 📑
-  - **[Azure For Students Account](#azure-for-students-account)** ⭐️
-  - **[How Submit Your Solution](#submit-your-solution-as-a-custom-ISSUE-to-our-repository)** 🔥
-  - **[Challenges](#challenges)** 💻
-  - **[Discord Channel](#discord-channel)** 💬
-  - **[Solutions](#solutions)** 💡
-  - **[Contributing](#contributing)** 🚩
-  - **[Contributors Hall of Fame](CONTRIBUTORS.md)** 🏆
-  - **[Awesome - Azure Functions & Serverless](RESOURCES.md)** 📚
+- **[Main Goal](#main-goal)** 🎯
+- **[Rules](#rules)** 🎫
+- **[Suggested Resources](#suggested-resources)** 📑
+- **[Azure For Students Account](#azure-for-students-account)** ⭐️
+- **[How to Submit Your Solution](#submit-your-solution-as-a-tagged-issue-to-our-repository)** 🔥
+- **[Challenges](#challenge-1-the-perfect-turkey-)** 💻
+- **[Discord Channel](#discord-channel)** 💬
+- **[Solutions](#solutions)** 💡
+- **[Contributing](#contributing)** 🚩
+- **[Contributors Hall of Fame](CONTRIBUTORS.md)** 🏆
+- **[Awesome - Azure Functions & Serverless](RESOURCES.md)** 📚
 
 ## Main Goal
 
