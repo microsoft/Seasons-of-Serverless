@@ -2,9 +2,13 @@
 
 # Welcome to the Seasons of Serverless!
 
-Every year around the holiday season, Dominique and Simone's friends eagerly look forward to their annual holiday friend potluck. This year, since they can't meet in person to share food and company, they're trying something new: a virtual potluck!
- 
-Each of their friends is going to be presenting a home-cooked dish or group of dishes from their holiday traditions and culture that's meaningful to them. Each week, you can log on to the Seasons of Serverless site to solve another unique code challenge presented by one of Dominique and Simone's friends and focused on a culinary tradition from around the world.
+Mes chers amis,
+
+Every year, we all look forward to our annual holiday potluck. From jollof rice all across West Africa to Indian ladoos to celebrate Diwali, sharing our favorite foods and traditions is our favorite part of the season!
+
+Of course, we know that's not possible this year, so we've come up with an alternative: a virtual code challenge potluck! Each week, someone in our community is going to post a unique code challenge exploring a recipe and a food for all of our friends to solve. It may not be the same as breaking bread in-person or smelling and tasting your flavorful creations, but hopefully these delectable brain-teasers can still give us a taste of each other's traditions.
+
+Grosses bises, Dominique et Simone
 
 ## Challenge 1: The Perfect Turkey 🦃 
 
