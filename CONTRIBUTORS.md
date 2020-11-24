@@ -36,4 +36,8 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 
 #### WEEK ONE
 
+- 🏎 [Marc Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/challenge-1/src/challenge-1) - C#
+- [Alexis Horgix Chotard](https://github.com/Horgix/seasons-of-serverless/tree/master/w1-turkey-recipe) - Python
+
+
 <hr/>
