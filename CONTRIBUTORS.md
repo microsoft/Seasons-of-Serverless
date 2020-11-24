@@ -36,8 +36,11 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 
 #### WEEK ONE
 
-- 🏎 [Marc Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/challenge-1/src/challenge-1) - C#
+- [Marc Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/challenge-1/src/challenge-1) - C# 🏎 
 - [Alexis Horgix Chotard](https://github.com/Horgix/seasons-of-serverless/tree/master/w1-turkey-recipe) - Python
+- [Brett Miller](https://github.com/brettmillerb/seasons-of-serverless/tree/challenge1) - PowerShell
+- [Brandon H](https://github.com/brandonh-msft/2020-seasons-of-serverless/tree/main/challenge-1) - PowerApps
+- [Aditya Raman](https://github.com/ramanaditya/Seasons-of-Serverless-2020-Solutions/tree/main/The-Perfect-Turkey) - Python
 
 
 <hr/>
