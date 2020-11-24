@@ -41,6 +41,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Brett Miller](https://github.com/brettmillerb/seasons-of-serverless/tree/challenge1) - PowerShell
 - [Brandon H](https://github.com/brandonh-msft/2020-seasons-of-serverless/tree/main/challenge-1) - PowerApps
 - [Aditya Raman](https://github.com/ramanaditya/Seasons-of-Serverless-2020-Solutions/tree/main/The-Perfect-Turkey) - Python
+- [Christophe Chichmanian](https://github.com/Christophe-Ch/SeasonsOfServerless2020/tree/main/the-perfect-turkey) - JavaScript
 
 
 <hr/>
