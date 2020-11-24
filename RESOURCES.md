@@ -30,7 +30,7 @@
 
 > Collections
 
-* [25DaysOfServerless Learn Modules](https://docs.microsoft.com/en-us/users/nityan/collections/k73ohwqzen712?WT.mc_id=academic-10922-cxa)
+* [Serverless Learn Modules](https://docs.microsoft.com/en-us/users/nityan/collections/k73ohwqzen712?WT.mc_id=academic-10922-cxa)
 
 > Overview
 
