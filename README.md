@@ -42,7 +42,7 @@ Each year at this time, we prepare something special to help you learn Serverles
 
 2. Tweet your progress during the challenge period using the hashtag [#SeasonsOfServerless](https://twitter.com/search?q=%23SeasonsOfServerless).
 
-3. Submit the code of your solution as an Issue to this repository before the sample solution gets published (7 days after the challenge is published).
+3. Submit the code of your solution as an Issue to this repository.
 
 4. You may get picked for a mention on social media. If you submit an Issue you agree that we mention your name and/or nicknames (GitHub, Twitter) publicly in the context of Seasons of Serverless.
 
