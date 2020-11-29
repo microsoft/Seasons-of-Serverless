@@ -63,9 +63,9 @@ If you are a student at a College or University, you can create your **[Azure fo
 Be among the first contributors and solve the challenge within 7 days of publishing. To have your contribution acknowledged, follow our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines. The short version:
 
 1.  Create a Github repo with your solution for that challenge
-2.  Fill in the details for the [Challenge Solution Submission](issues/new?assignees=&labels=challenge-submission&template=challenge-solution-submission.md&title=%5BCHALLENGE+SUBMISSION%5D+) issue and submit.
+2.  Fill in the details for the [Challenge Solution Submission](/issues/new?assignees=&labels=challenge-submission&template=challenge-solution-submission.md&title=%5BCHALLENGE+SUBMISSION%5D+) issue and submit.
 
-Have questions or comments? Submit a regular [ISSUE](issues/new/choose) here with details.
+Have questions or comments? Submit a regular [ISSUE](/issues/new/choose) here with details.
 
 ## Discord Channel
 
