@@ -57,6 +57,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Christian Piet](https://github.com/Manbearpiet/seasonofserverless) - PowerShell
 - [Jonathan Silvestri](https://github.com/silvestrijonathan/azure-practice/tree/main/PerfectTurkey) - TypeScript
 - [Chris Petit](https://github.com/ChrisPetit/ThePerfectTurkey/tree/main/ThePerfectTurkey) - C#
+- [Daniel Paulus](https://github.com/PaulusTM/Seasons-of-Serverless/tree/main/src/challenge-1) - TypeScript
 
 
 <hr/>
