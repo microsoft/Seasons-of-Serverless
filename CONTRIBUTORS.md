@@ -42,6 +42,21 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Brandon H](https://github.com/brandonh-msft/2020-seasons-of-serverless/tree/main/challenge-1) - PowerApps
 - [Aditya Raman](https://github.com/ramanaditya/Seasons-of-Serverless-2020-Solutions/tree/main/The-Perfect-Turkey) - Python
 - [Christophe Chichmanian](https://github.com/Christophe-Ch/SeasonsOfServerless2020/tree/main/the-perfect-turkey) - JavaScript
+- [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster) - Python
+- [Matt Manuel](https://github.com/matt-manuel/seasons-of-serverless) - Python
+- [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek1) - TypeScript
+- [Mats Andreassen](https://github.com/MatsAnd/seasons-of-serverless/tree/main/01) - JavaScript
+- [Robert Steele](https://github.com/antempus/SeasonsOfServerlessSolutions) - TypeScript
+- [Björn Sundling](https://github.com/bjompen/Seasons-of-Serverless/tree/master/challenge_1) - pwsh
+- [Alexandre Mourany](https://github.com/amourany/seasons-of-serverless/tree/master/w1-perfect-turkey) - Java
+- [Barbara Forbes](https://github.com/Ba4bes/SeasonsOfServerless/tree/main/C01-The_Perfect_Turkey) - PowerShell
+- [Stuart Leaver](https://github.com/stuartleaver/seasons-of-serverless/tree/main/01-the-perfect-turkey) - C#, Blazor
+- [Philip Metz](https://github.com/MetzinAround/PerfectTurkey) - C#, ASP.NET Core
+- [Locksley Kolakowski](https://github.com/LocksleyLK/seasons-of-serverless/blob/master/challenge-1/README.md) - JavaScript
+- [Lohith GN](https://github.com/lohithgn/Seasons-of-Serverless/blob/main/challenge-1/README.md) - C#, ASP.NET Core
+- [Christian Piet](https://github.com/Manbearpiet/seasonofserverless) - PowerShell
+- [Jonathan Silvestri](https://github.com/silvestrijonathan/azure-practice/tree/main/PerfectTurkey) - TypeScript
+
 
 
 <hr/>
