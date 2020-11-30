@@ -10,13 +10,13 @@ Of course, we know that's not possible this year, so we've come up with an alter
 
 Grosses bises, Dominique et Simone
 
-## Challenge 1: The Perfect Turkey 🦃 
+## Challenge 2: Lovely Ladoos
 
-**Featured Region: North America**
+**Featured Region: India**
 
-**Your Chefs: Jen Looper, Cloud Advocate (Microsoft) and Darren Butler and Eric Yu, Microsoft Student Ambassadors**
+**Your Chefs: Jasmine Greenaway, Cloud Advocate (Microsoft) with Soumya Narapaju and Aditya Raman, Microsoft Student Ambassadors**
 
-Here in North America, many families believe that the holidays are simply not complete without a proper turkey on the table. [Learn more about this challenge](Nov-23-2020.md).
+It's Diwali season in India! A very popular delicacy that Indians eat during Diwali are ladoos, balls of flour dipped in sugar syrup. Can you create a machine learning model to detect a proper ladoo? [Learn more about this challenge](Nov-30-2020.md).
 
 ## Contents
 
@@ -42,7 +42,7 @@ Each year at this time, we prepare something special to help you learn Serverles
 
 2. Tweet your progress during the challenge period using the hashtag [#SeasonsOfServerless](https://twitter.com/search?q=%23SeasonsOfServerless).
 
-3. Submit the code of your solution as an Issue to this repository before the sample solution gets published (7 days after the challenge is published).
+3. Submit the code of your solution as an Issue to this repository.
 
 4. You may get picked for a mention on social media. If you submit an Issue you agree that we mention your name and/or nicknames (GitHub, Twitter) publicly in the context of Seasons of Serverless.
 
@@ -63,9 +63,9 @@ If you are a student at a College or University, you can create your **[Azure fo
 Be among the first contributors and solve the challenge within 7 days of publishing. To have your contribution acknowledged, follow our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines. The short version:
 
 1.  Create a Github repo with your solution for that challenge
-2.  Fill in the details for the [Challenge Solution Submission](issues/new?assignees=&labels=challenge-submission&template=challenge-solution-submission.md&title=%5BCHALLENGE+SUBMISSION%5D+) issue and submit.
+2.  Fill in the details for the [Challenge Solution Submission](https://github.com/microsoft/Seasons-Of-Serverless/issues/new?assignees=&labels=challenge-submission&template=challenge-solution-submission.md&title=%5BCHALLENGE+SUBMISSION%5D+) issue and submit.
 
-Have questions or comments? Submit a regular [ISSUE](issues/new/choose) here with details.
+Have questions or comments? Submit a regular [ISSUE](https://github.com/microsoft/Seasons-Of-Serverless/issues/new/choose) here with details.
 
 ## Discord Channel
 
