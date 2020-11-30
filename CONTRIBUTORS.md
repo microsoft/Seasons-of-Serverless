@@ -56,7 +56,11 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Lohith GN](https://github.com/lohithgn/Seasons-of-Serverless/blob/main/challenge-1/README.md) - C#, ASP.NET Core
 - [Christian Piet](https://github.com/Manbearpiet/seasonofserverless) - PowerShell
 - [Jonathan Silvestri](https://github.com/silvestrijonathan/azure-practice/tree/main/PerfectTurkey) - TypeScript
-
+- [Chris Petit](https://github.com/ChrisPetit/ThePerfectTurkey/tree/main/ThePerfectTurkey) - C#
 
 
 <hr/>
+
+#### WEEK TWO
+
+- Who will be the first? - 🏎 
