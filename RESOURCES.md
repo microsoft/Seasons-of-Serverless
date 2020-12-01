@@ -61,6 +61,10 @@
 
 > For Databases
 
+* [Azure SQL Serverless](https://docs.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview)
+* [Azure SQL JSON Support](https://docs.microsoft.com/en-us/azure/azure-sql/database/json-features)
+* [Azure SQL & Node.js Azure Function Sample](https://docs.microsoft.com/en-us/samples/azure-samples/azure-sql-db-node-rest-api/azure-sql-db-node-rest-api/)
+* [Azure SQL & .NET Azure Function Sample](https://docs.microsoft.com/en-us/samples/azure-samples/azure-sql-db-serverless-geospatial/azure-sql-db-serverless-geospatial/)
 * [Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db?WT.mc_id=academic-10922-cxa)
 * [Azure Cosmos DB bindings for Azure Functions 1.x](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb?tabs=csharp&WT.mc_id=academic-10922-cxa)
 * [Azure Cosmos DB bindings for Azure Functions 2.x](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2?WT.mc_id=academic-10922-cxa)
