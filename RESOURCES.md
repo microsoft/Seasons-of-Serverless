@@ -49,7 +49,7 @@
 
 > Azure Static Web Apps
 
-* [Create Static Sites with Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/)
+* [Create Static Sites with Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/?WT.mc_id=academic-10922-cxa)
 
 > Triggers & Bindings
 
@@ -61,10 +61,10 @@
 
 > For Databases
 
-* [Azure SQL Serverless](https://docs.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview)
-* [Azure SQL JSON Support](https://docs.microsoft.com/en-us/azure/azure-sql/database/json-features)
-* [Azure SQL & Node.js Azure Function Sample](https://docs.microsoft.com/en-us/samples/azure-samples/azure-sql-db-node-rest-api/azure-sql-db-node-rest-api/)
-* [Azure SQL & .NET Azure Function Sample](https://docs.microsoft.com/en-us/samples/azure-samples/azure-sql-db-serverless-geospatial/azure-sql-db-serverless-geospatial/)
+* [Azure SQL Serverless](https://docs.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview/?WT.mc_id=academic-10922-cxa)
+* [Azure SQL JSON Support](https://docs.microsoft.com/en-us/azure/azure-sql/database/json-features/?WT.mc_id=academic-10922-cxa)
+* [Azure SQL & Node.js Azure Function Sample](https://docs.microsoft.com/en-us/samples/azure-samples/azure-sql-db-node-rest-api/azure-sql-db-node-rest-api/?WT.mc_id=academic-10922-cxa)
+* [Azure SQL & .NET Azure Function Sample](https://docs.microsoft.com/en-us/samples/azure-samples/azure-sql-db-serverless-geospatial/azure-sql-db-serverless-geospatial/?WT.mc_id=academic-10922-cxa)
 * [Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db?WT.mc_id=academic-10922-cxa)
 * [Azure Cosmos DB bindings for Azure Functions 1.x](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb?tabs=csharp&WT.mc_id=academic-10922-cxa)
 * [Azure Cosmos DB bindings for Azure Functions 2.x](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2?WT.mc_id=academic-10922-cxa)

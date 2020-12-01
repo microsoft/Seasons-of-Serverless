@@ -78,9 +78,15 @@ Here are all the sample solutions.
 
 ### Solutions by Week
 
-| Challenges | Description | Important Resources | Responsible | Solution |
-| ---------- | ----------- | ------------------- | ----------- | -------- |
-
+| Date                     | Description        | Region        | Chefs                                            | Solution                                                                                                   |
+| ------------------------ | ------------------ | ------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| [Nov 23](Nov-23-2020.md) | The Perfect Turkey | North America | Jen Looper, Eric Yu, Darren Butler               | [Solution](https://dev.to/azure/seasonsofserverless-solution-1-developing-the-perfect-holiday-turkey-2p3f) |
+| [Nov 30](Nov-30-2020.md) | Lovely Ladoos      | India         | Jasmine Greenaway, Soumya Narapaju, Aditya Raman |
+| Dec 7                    |                    |               |                                                  |
+| Dec 14                   |                    |               |                                                  |
+| Dec 21                   |                    |               |                                                  |
+| Dec 28                   |                    |               |                                                  |
+| Jan 7                    |                    |               |                                                  |
 
 ## Contributing
 
