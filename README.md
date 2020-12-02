@@ -86,7 +86,7 @@ Here are all the sample solutions.
 | Dec 14                   |                    |               |                                                  |
 | Dec 21                   |                    |               |                                                  |
 | Dec 28                   |                    |               |                                                  |
-| Jan 7                    |                    |               |                                                  |
+| Jan 4                    |                    |               |                                                  |
 
 ## Contributing
 
