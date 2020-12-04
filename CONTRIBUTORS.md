@@ -64,4 +64,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 
 #### WEEK TWO
 
-- Who will be the first? - 🏎 
+- [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster) - Python, Tensorflow
+
+
+<hr/>
