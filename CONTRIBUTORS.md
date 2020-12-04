@@ -68,3 +68,9 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 
 
 <hr/>
+
+#### LATE BUT MENTIONABLE SUBMISSIONS
+
+- [Drew Skwiers-Koballa](https://github.com/dzsquared/seasons-of-serverless-week1) - Python
+- [Francesco La Torre](https://github.com/Francescolatorre/serverless-challenge-turkey) - JavaScript
+
