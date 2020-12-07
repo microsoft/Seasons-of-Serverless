@@ -10,13 +10,13 @@ Of course, we know that's not possible this year, so we've come up with an alter
 
 Grosses bises, Dominique et Simone
 
-## Challenge 2: Lovely Ladoos
+## Challenge 3: The Longest Kebab
 
-**Featured Region: India**
+**Featured Region: Turkey**
 
-**Your Chefs: Jasmine Greenaway, Cloud Advocate (Microsoft) with Soumya Narapaju and Aditya Raman, Microsoft Student Ambassadors**
+**Your Chefs: Cecil Phillip, Cloud Advocate (Microsoft) with Baris Ceviz, Microsoft Student Ambassadors**
 
-It's Diwali season in India! A very popular delicacy that Indians eat during Diwali are ladoos, balls of flour dipped in sugar syrup. Can you create a machine learning model to detect a proper ladoo? [Learn more about this challenge](Nov-30-2020.md).
+In the city of Adana in Turkey, festivals are held with a competition centered around who can make the longest kebab in the world. Your challenge? Make a Kebab Calculator to calculate what you need to make the longest kebab and feed the most people in the shortest amount of time! [Learn more about this challenge](Dec-7-2020.md).
 
 ## Contents
 
@@ -78,15 +78,15 @@ Here are all the sample solutions.
 
 ### Solutions by Week
 
-| Date                     | Description        | Region        | Chefs                                            | Solution                                                                                                   |
-| ------------------------ | ------------------ | ------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| [Nov 23](Nov-23-2020.md) | The Perfect Turkey | North America | Jen Looper, Eric Yu, Darren Butler               | [Solution](https://dev.to/azure/seasonsofserverless-solution-1-developing-the-perfect-holiday-turkey-2p3f) |
-| [Nov 30](Nov-30-2020.md) | Lovely Ladoos      | India         | Jasmine Greenaway, Soumya Narapaju, Aditya Raman |
-| Dec 7                    |                    |               |                                                  |
-| Dec 14                   |                    |               |                                                  |
-| Dec 21                   |                    |               |                                                  |
-| Dec 28                   |                    |               |                                                  |
-| Jan 4                    |                    |               |                                                  |
+| Date                     | Description        | Region                     | Chefs                                            | Solution                                                                                                   |
+| ------------------------ | ------------------ | -------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| [Nov 23](Nov-23-2020.md) | The Perfect Turkey | North America              | Jen Looper, Eric Yu, Darren Butler               | [Solution](https://dev.to/azure/seasonsofserverless-solution-1-developing-the-perfect-holiday-turkey-2p3f) |
+| [Nov 30](Nov-30-2020.md) | Lovely Ladoos      | India                      | Jasmine Greenaway, Soumya Narapaju, Aditya Raman |
+| [Dec 7](Dec-7-2020.md)   | The Longest Kebab  | Cecil Phillip, Bariz Ceviz |                                                  |
+| Dec 14                   |                    |                            |                                                  |
+| Dec 21                   |                    |                            |                                                  |
+| Dec 28                   |                    |                            |                                                  |
+| Jan 4                    |                    |                            |                                                  |
 
 ## Contributing
 
