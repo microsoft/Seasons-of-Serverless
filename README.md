@@ -81,7 +81,7 @@ Here are all the sample solutions.
 | Date                     | Description        | Region                     | Chefs                                            | Solution                                                                                                   |
 | ------------------------ | ------------------ | -------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 | [Nov 23](Nov-23-2020.md) | The Perfect Turkey | North America              | Jen Looper, Eric Yu, Darren Butler               | [Solution](https://dev.to/azure/seasonsofserverless-solution-1-developing-the-perfect-holiday-turkey-2p3f) |
-| [Nov 30](Nov-30-2020.md) | Lovely Ladoos      | India                      | Jasmine Greenaway, Soumya Narapaju, Aditya Raman |
+| [Nov 30](Nov-30-2020.md) | Lovely Ladoos      | India                      | Jasmine Greenaway, Soumya Narapaju, Aditya Raman | [Solution](https://dev.to/azure/seasonsofserverless-solution-2-developing-lovely-ladoos-41h9)
 | [Dec 7](Dec-7-2020.md)   | The Longest Kebab  | Cecil Phillip, Baris Ceviz |                                                  |
 | Dec 14                   |                    |                            |                                                  |
 | Dec 21                   |                    |                            |                                                  |
