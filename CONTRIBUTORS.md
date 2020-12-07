@@ -64,4 +64,13 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 
 #### WEEK TWO
 
-- Who will be the first? - 🏎 
+- [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster) - Python, Tensorflow
+
+
+<hr/>
+
+#### LATE BUT MENTIONABLE SUBMISSIONS
+
+- [Drew Skwiers-Koballa](https://github.com/dzsquared/seasons-of-serverless-week1) - Python
+- [Francesco La Torre](https://github.com/Francescolatorre/serverless-challenge-turkey) - JavaScript
+
