@@ -65,7 +65,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 #### WEEK TWO
 
 - [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster) - Python, Tensorflow
-- [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek2) - TypeScript
+- [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek2) - TypeScript 🏎 
 - [Chris Petit](https://github.com/ChrisPetit/LovelyLadoos) - ASP.NET core, C#
 - [Stuart Leaver](https://github.com/stuartleaver/seasons-of-serverless/tree/main/02-lovely-ladoos) - C#, Static Web Apps
 - [Barbara Forbes](https://github.com/Ba4bes/SeasonsOfServerless/tree/main/C02-Lovely_Ladoos) - PowerShell
@@ -78,6 +78,9 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 <hr />
 
 #### WEEK THREE
+- [Marc Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/main/src/challenge-3) - C# 🏎 
+- [Chris Petit](https://github.com/ChrisPetit/LongestKebab) - .NET Core
+- [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-03) - Python
 - []() - 
 
 
