@@ -81,7 +81,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Marc Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/main/src/challenge-3) - C# 🏎 
 - [Chris Petit](https://github.com/ChrisPetit/LongestKebab) - .NET Core
 - [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-03) - Python
-- []() - 
+- [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek3) - TypeScript
 
 
 <hr/>
