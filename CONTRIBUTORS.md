@@ -82,7 +82,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Chris Petit](https://github.com/ChrisPetit/LongestKebab) - .NET Core
 - [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-03) - Python
 - [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek3) - TypeScript
-
+- [Barbara Forbes](https://github.com/Ba4bes/SeasonsOfServerless/tree/main/C03-The_Longest_Kebab) - PowerShell
 
 <hr/>
 
