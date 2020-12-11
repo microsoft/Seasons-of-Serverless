@@ -29,12 +29,14 @@ We will be listing contributors in alphabetical order, by week. At the end of th
   - [Adding a solution](#adding-a-solution)
   - [Our Awesome Contributors 🏆](#our-awesome-contributors-%f0%9f%8f%86)
   - [WEEK ONE](#week-one)
+  - [WEEK TWO](#week-two)
+  - [WEEK THREE](#week-three)
 
 ---
 
 #### WEEK ONE
 
-- [Marc Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/challenge-1/src/challenge-1) - C# 🏎 
+- [Marc Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/challenge-1/src/challenge-1) - C# 🏎
 - [Alexis Horgix Chotard](https://github.com/Horgix/seasons-of-serverless/tree/master/w1-turkey-recipe) - Python
 - [Brett Miller](https://github.com/brettmillerb/seasons-of-serverless/tree/challenge1) - PowerShell
 - [Brandon H](https://github.com/brandonh-msft/2020-seasons-of-serverless/tree/main/challenge-1) - PowerApps
@@ -62,7 +64,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 #### WEEK TWO
 
 - [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster) - Python, Tensorflow
-- [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek2) - TypeScript 🏎 
+- [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek2) - TypeScript 🏎
 - [Chris Petit](https://github.com/ChrisPetit/LovelyLadoos) - ASP.NET core, C#
 - [Stuart Leaver](https://github.com/stuartleaver/seasons-of-serverless/tree/main/02-lovely-ladoos) - C#, Static Web Apps
 - [Barbara Forbes](https://github.com/Ba4bes/SeasonsOfServerless/tree/main/C02-Lovely_Ladoos) - PowerShell
@@ -75,7 +77,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 
 #### WEEK THREE
 
-- [Marc Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/main/src/challenge-3) - C# 🏎 
+- [Marc Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/main/src/challenge-3) - C# 🏎
 - [Chris Petit](https://github.com/ChrisPetit/LongestKebab) - .NET Core
 - [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-03) - Python
 - [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek3) - TypeScript

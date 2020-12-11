@@ -51,6 +51,8 @@ Each year at this time, we prepare something special to help you learn Serverles
 - **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-10922-cxa)**
 - **[Azure Account](https://azure.microsoft.com/?WT.mc_id=academic-10922-cxa)**
 - **[Azure Functions Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=academic-10922-cxa)**
+- **[Azure Static Web Apps Quickstart](https://docs.microsoft.com/azure/static-web-apps/get-started-portal?tabs=vanilla-javascript&WT.mc_id=academic-10922-cxa)**
+- **[Azure Static Web Apps Student Starter Kit](https://github.com/GeekTrainer/aswa-student-starter-kit)**
 
 ## Azure For Students Account
 
