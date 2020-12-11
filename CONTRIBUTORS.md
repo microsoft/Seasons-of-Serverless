@@ -57,8 +57,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Chris Petit](https://github.com/ChrisPetit/ThePerfectTurkey/tree/main/ThePerfectTurkey) - C#
 - [Daniel Paulus](https://github.com/PaulusTM/Seasons-of-Serverless/tree/main/src/challenge-1) - TypeScript
 
-
-<hr/>
+---
 
 #### WEEK TWO
 
@@ -72,17 +71,18 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Locksley Kolakowski](https://github.com/LocksleyLK/seasons-of-serverless/tree/master/ladooVision) - JavaScript
 - [Marc Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/main/src/challenge-2) - C#
 
-
-<hr />
+---
 
 #### WEEK THREE
+
 - [Marc Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/main/src/challenge-3) - C# 🏎 
 - [Chris Petit](https://github.com/ChrisPetit/LongestKebab) - .NET Core
 - [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-03) - Python
 - [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek3) - TypeScript
 - [Barbara Forbes](https://github.com/Ba4bes/SeasonsOfServerless/tree/main/C03-The_Longest_Kebab) - PowerShell
+- [Jose R. Cadena](https://github.com/josercadena/seasons-of-serverless-week-3) - C#
 
-<hr/>
+---
 
 #### LATE BUT MENTIONABLE SUBMISSIONS
 
