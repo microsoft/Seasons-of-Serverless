@@ -28,11 +28,9 @@ We will be listing contributors in alphabetical order, by week. At the end of th
   - [How to participate? 💻](#how-to-participate-%f0%9f%92%bb)
   - [Adding a solution](#adding-a-solution)
   - [Our Awesome Contributors 🏆](#our-awesome-contributors-%f0%9f%8f%86)
-      - [WEEK ONE](#week-one)
+  - [WEEK ONE](#week-one)
 
-
-
-<hr/>
+---
 
 #### WEEK ONE
 
