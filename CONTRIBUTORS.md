@@ -83,6 +83,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek3) - TypeScript
 - [Barbara Forbes](https://github.com/Ba4bes/SeasonsOfServerless/tree/main/C03-The_Longest_Kebab) - PowerShell
 - [Jose R. Cadena](https://github.com/josercadena/seasons-of-serverless-week-3) - C#
+- [Locksley Kolakowski](https://github.com/LocksleyLK/seasons-of-serverless/tree/master/longestKebab) - JavaScript
 
 ---
 
