@@ -10,13 +10,13 @@ Of course, we know that's not possible this year, so we've come up with an alter
 
 Grosses bises, Dominique et Simone
 
-## Challenge 3: The Longest Kebab
+## Challenge 4: A Big BBQ!
 
-**Featured Region: Turkey**
+**Featured Region: LATAM/Brazil**
 
-**Your Chefs: Cecil Phillip, Cloud Advocate (Microsoft) with Baris Ceviz, Microsoft Student Ambassadors**
+**Your Chefs: Lucas Santos, Cloud Advocate (Microsoft) with Rogerio Rodrigues and Sydney Cirqueira, Microsoft Student Ambassadors**
 
-In the city of Adana in Turkey, festivals are held with a competition centered around who can make the longest kebab in the world. Your challenge? Make a Kebab Calculator to calculate what you need to make the longest kebab and feed the most people in the shortest amount of time! [Learn more about this challenge](Dec-7-2020.md).
+In Brazil, everyone loves a big barbecue! Brazilian barbecue is justifiably famous. Some families have created whole systems to help organize the amount of food needed for the number of people invited to a big barbecue. We have gained access to a spreadsheet used to organize large family barbecues: [here it is](graphics/bbq-spreadsheet.xlsx). Big events like this can get expensive, and you need to stay in within your budget. Your challenge? Using the percentages in the spreadsheet, create a serverless method of determining how many people you can invite based on a given budget. [Learn more about this challenge](Dec-14-2020.md).
 
 ## Contents
 
