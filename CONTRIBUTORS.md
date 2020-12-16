@@ -87,6 +87,13 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Stuart Leaver](https://github.com/stuartleaver/seasons-of-serverless/tree/main/03-the-longest-kebab) - TypeScript, Static Web Apps
 - [Christophe Chichmanian](https://github.com/Christophe-Ch/SeasonsOfServerless2020/tree/main/TheLongestKebab) - JavaScript
 
+#### WEEK FOUR
+
+- [Ewerton Jordão](https://github.com/EwertonJordao/bbqbrazil_seasonserverless4) - PowerShell 🏎
+- [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek4) - JavaScript
+- [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-04) - Python
+- []() - 
+
 ---
 
 #### LATE BUT MENTIONABLE SUBMISSIONS
