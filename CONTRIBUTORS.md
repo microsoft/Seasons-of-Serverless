@@ -42,7 +42,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Brandon H](https://github.com/brandonh-msft/2020-seasons-of-serverless/tree/main/challenge-1) - PowerApps
 - [Aditya Raman](https://github.com/ramanaditya/Seasons-of-Serverless-2020-Solutions/tree/main/The-Perfect-Turkey) - Python
 - [Christophe Chichmanian](https://github.com/Christophe-Ch/SeasonsOfServerless2020/tree/main/the-perfect-turkey) - JavaScript
-- [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster) - Python
+- [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster) - Python 🏆
 - [Matt Manuel](https://github.com/matt-manuel/seasons-of-serverless) - Python
 - [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek1) - TypeScript
 - [Mats Andreassen](https://github.com/MatsAnd/seasons-of-serverless/tree/main/01) - JavaScript
@@ -66,7 +66,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster) - Python, Tensorflow
 - [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek2) - TypeScript 🏎
 - [Chris Petit](https://github.com/ChrisPetit/LovelyLadoos) - ASP.NET core, C#
-- [Stuart Leaver](https://github.com/stuartleaver/seasons-of-serverless/tree/main/02-lovely-ladoos) - C#, Static Web Apps
+- [Stuart Leaver](https://github.com/stuartleaver/seasons-of-serverless/tree/main/02-lovely-ladoos) - C#, Static Web Apps 🏆
 - [Barbara Forbes](https://github.com/Ba4bes/SeasonsOfServerless/tree/main/C02-Lovely_Ladoos) - PowerShell
 - [Christophe Chichmanian](https://github.com/Christophe-Ch/SeasonsOfServerless2020/tree/main/LovelyLadoos) - JavaScript
 - [Daniel Paulus](https://github.com/PaulusTM/Seasons-of-Serverless/tree/main/src/challenge-2) - TypeScript
@@ -80,7 +80,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Marc Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/main/src/challenge-3) - C# 🏎
 - [Chris Petit](https://github.com/ChrisPetit/LongestKebab) - .NET Core
 - [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-03) - Python
-- [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek3) - TypeScript
+- [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek3) - TypeScript 🏆
 - [Barbara Forbes](https://github.com/Ba4bes/SeasonsOfServerless/tree/main/C03-The_Longest_Kebab) - PowerShell
 - [Jose R. Cadena](https://github.com/josercadena/seasons-of-serverless-week-3) - C#
 - [Locksley Kolakowski](https://github.com/LocksleyLK/seasons-of-serverless/tree/master/longestKebab) - JavaScript
