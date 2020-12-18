@@ -92,7 +92,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Ewerton Jordão](https://github.com/EwertonJordao/bbqbrazil_seasonserverless4) - PowerShell 🏎
 - [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek4) - JavaScript
 - [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-04) - Python
-- []() - 
+- [Stuart Leaver](https://github.com/stuartleaver/seasons-of-serverless/tree/main/04-a-big-barbecue) - C#, Angular
 
 ---
 
