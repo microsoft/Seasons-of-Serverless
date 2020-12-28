@@ -10,14 +10,14 @@ Of course, we know that's not possible this year, so we've come up with an alter
 
 Grosses bises, Dominique et Simone
 
-## Challenge 5: The Best Soup
+## Challenge 6: The Magic Chocolate Box
 
-**Featured Region: Korea**
+**Featured Region: France**
 
-**Your Chefs: Justin Yoo, Cloud Advocate (Microsoft) with You Jin Kim, Hong Min Kim, and Aaron Roh, Microsoft Student Ambassadors**
+**Your Chefs: Christopher Maneu, Cloud Advocate, with Abdelmoumene Boumadane and Christopher Chichmanian, Microsoft Student Ambassadors**
 
-In Korea, when New Year begins, everyone eats tteok-guk (rice cake soup). There are various shapes of tteok, but especially for greeting New Year, garae-tteok is the most popular for this soup. Your challenge? This recipe calls for several steps, and we want to create an automated process to set reminders for each step. Don't let anything burn! 
- [Learn more about this challenge](Dec-21-2020.md).
+In some families, around the holiday season, there is always a big box of chocolates on the table, and there's always a little cousin who grabs your favorite one! This year, we can't be together in person but maybe we can prepare little individual boxes for each person. All we have to do is choose the right chocolate for the right person! 
+ [Learn more about this challenge](Dec-28-2020.md).
 
 ## Contents
 
@@ -81,15 +81,15 @@ Here are all the sample solutions.
 
 ### Solutions by Week
 
-| Date                     | Description        | Region        | Chefs                                            | Solution                                                                                                   |
-| ------------------------ | ------------------ | ------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| [Nov 23](Nov-23-2020.md) | The Perfect Turkey | North America | Jen Looper, Eric Yu, Darren Butler               | [Solution](https://dev.to/azure/seasonsofserverless-solution-1-developing-the-perfect-holiday-turkey-2p3f) |
-| [Nov 30](Nov-30-2020.md) | Lovely Ladoos      | India         | Jasmine Greenaway, Soumya Narapaju, Aditya Raman | [Solution](https://dev.to/azure/seasonsofserverless-solution-2-developing-lovely-ladoos-41h9)              |
-| [Dec 7](Dec-7-2020.md)   | The Longest Kebab  | Turkey        | Cecil Phillip, Baris Ceviz                       | [Solution](https://dev.to/azure/seasonsofserverless-solution-3-the-longest-kebab-3pe1)                     |
-| [Dec 14](Dec-14-2020.md) | A Big BBQ!         | Brazil/LATAM  |  Lucas Santos, Rogerio Rodrigues, Sydney Cirqueira                                                  |
-| [Dec 21](Dec-21-2020.md) | The Best Soup      |Korea         | Justin Yoo, You Jin Kim, Hong Min Kim and Aaron Roh                                           |
-| Dec 28                   |                    |               |                                                  |
-| Jan 4                    |                    |               |                                                  |
+| Date                     | Description             | Region        | Chefs                                                                 | Solution                                                                                                   |
+| ------------------------ | ----------------------- | ------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [Nov 23](Nov-23-2020.md) | The Perfect Turkey      | North America | Jen Looper, Eric Yu, Darren Butler                                    | [Solution](https://dev.to/azure/seasonsofserverless-solution-1-developing-the-perfect-holiday-turkey-2p3f) |
+| [Nov 30](Nov-30-2020.md) | Lovely Ladoos           | India         | Jasmine Greenaway, Soumya Narapaju, Aditya Raman                      | [Solution](https://dev.to/azure/seasonsofserverless-solution-2-developing-lovely-ladoos-41h9)              |
+| [Dec 7](Dec-7-2020.md)   | The Longest Kebab       | Turkey        | Cecil Phillip, Baris Ceviz                                            | [Solution](https://dev.to/azure/seasonsofserverless-solution-3-the-longest-kebab-3pe1)                     |
+| [Dec 14](Dec-14-2020.md) | A Big BBQ!              | Brazil/LATAM  | Lucas Santos, Rogerio Rodrigues, Sydney Cirqueira                     | [Solution](https://dev.to/azure/seasonsofserverless-solution-4-a-big-barbecue-4d5e)                        |
+| [Dec 21](Dec-21-2020.md) | The Best Soup           | Korea         | Justin Yoo, You Jin Kim, Hong Min Kim and Aaron Roh                   | [Solution](https://dev.to/azure/seasons-of-serverless-week-5-challenge-tteok-guk-for-the-new-year-11fb)    |
+| [Dec 28](Dec-28-2020.md) | The Magic Chocolate Box | France        | Christopher Maneu, Abdelmoumene Boumadane and Christopher Chichmanian |
+| Jan 4                    |                         |               |                                                                       |
 |                          |
 
 ## Contributing
