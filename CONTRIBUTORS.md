@@ -95,7 +95,7 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 
 #### WEEK FOUR
 
-- [Ewerton Jordão](https://github.com/EwertonJordao/bbqbrazil_seasonserverless4) - PowerShell 🏎
+- [Ewerton Jordão](https://github.com/EwertonJordao/bbqbrazil_seasonserverless4) - PowerShell 🏎 🏆
 - [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek4) - JavaScript
 - [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-04) - Python
 - [Stuart Leaver](https://github.com/stuartleaver/seasons-of-serverless/tree/main/04-a-big-barbecue) - C#, Angular
@@ -106,9 +106,9 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 
 #### WEEK FIVE
 
-- [Christian Lechner](https://github.com/lechnerc77/SeasonsOfServerlessWeek5) - Logic Apps
+- [Christian Lechner](https://github.com/lechnerc77/SeasonsOfServerlessWeek5) - Logic Apps 🏎
 - [Stuart Leaver](https://github.com/stuartleaver/seasons-of-serverless/tree/main/05-tteok-guk-for-the-new-year) - Azure Functions, Durable Functions, SignalR, SendGrid
-- [Barbara Forbes](https://github.com/Ba4bes/SeasonsOfServerless/tree/main/C05-Tteok-guk_for_The_New_Year) - Logic Apps
+- [Barbara Forbes](https://github.com/Ba4bes/SeasonsOfServerless/tree/main/C05-Tteok-guk_for_The_New_Year) - Logic Apps 🏆
 - [Locksley Kolakowski](https://github.com/LocksleyLK/seasons-of-serverless/tree/master/Challenge-5) - Power Automate / Microsoft Flow
 
 
@@ -116,8 +116,8 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 
 #### WEEK SIX
 
-- [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek6) - Azure Functions, Durable Functions
-- [Mark Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/challenge-6/src/challenge-6) - Durable Entities in C#
+- [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek6) - Azure Functions, Durable Functions 🏎
+- [Mark Duiker](https://github.com/marcduiker/Seasons-of-Serverless/tree/challenge-6/src/challenge-6) - Durable Entities in C# 🏆
 - [Stuart Leaver](https://github.com/stuartleaver/seasons-of-serverless/tree/main/06-the-magic-chocolate-box) - Durable Entities with C#, Vue.js
 - [Barbara Forbes](https://github.com/Ba4bes/SeasonsOfServerless/tree/main/C06-The_Magic_Chocolate_Box) - PowerShell Functions, CosmosDB
 - [Locksley Kolakowski](https://github.com/LocksleyLK/seasons-of-serverless/tree/master/challenge-6) - JavaScript
@@ -129,8 +129,8 @@ We will be listing contributors in alphabetical order, by week. At the end of th
 - [Christian Lechner](https://github.com/lechnerc77/SeasonOfServerlessWeek7) - Azure Functions in Go on SAP, Cloud Platform Kyma
 - [Rebecca Trapani](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-07) - Python and SendGrid
 - [Stuart Leaver](https://github.com/stuartleaver/seasons-of-serverless/tree/main/07-the-recipe-notifier) - C#, Vue.js, Azure Maps, SendGrid
-- [Barbara Forbes](https://github.com/Ba4bes/SeasonsOfServerless/tree/main/C07-The_Recipe_Connector) - PowerShell
-- [Locksley Kolakowski](https://github.com/LocksleyLK/seasons-of-serverless/tree/master/challenge-7) - JavaScript and Twilio
+- [Barbara Forbes](https://github.com/Ba4bes/SeasonsOfServerless/tree/main/C07-The_Recipe_Connector) - PowerShell 🏎
+- [Locksley Kolakowski](https://github.com/LocksleyLK/seasons-of-serverless/tree/master/challenge-7) - JavaScript and Twilio 🏆
 
 ---
 
