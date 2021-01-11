@@ -89,7 +89,7 @@ Here are all the sample solutions.
 | [Dec 14](Dec-14-2020.md) | A Big BBQ!              | Brazil/LATAM  | Lucas Santos, Rogerio Rodrigues, Sydney Cirqueira                     | [Solution](https://dev.to/azure/seasonsofserverless-solution-4-a-big-barbecue-4d5e)                        |
 | [Dec 21](Dec-21-2020.md) | The Best Soup           | Korea         | Justin Yoo, You Jin Kim, Hong Min Kim and Aaron Roh                   | [Solution](https://dev.to/azure/seasons-of-serverless-week-5-challenge-tteok-guk-for-the-new-year-11fb)    |
 | [Dec 28](Dec-28-2020.md) | The Magic Chocolate Box | France        | Christopher Maneu, Abdelmoumene Boumadane and Christopher Chichmanian | [Solution](https://dev.to/azure/seasonsofserverless-solution-6-the-magic-chocolate-box-33bh)               |
-| [Jan 4](Jan-4-2021.md)   | The Recipe Connector    | Africa        | Bethany Jepchumba, Adefemi Afuwape and Felix Omuok                    |
+| [Jan 4](Jan-4-2021.md)   | The Recipe Connector    | Africa        | Bethany Jepchumba, Adefemi Afuwape and Felix Omuok                    |[Solution](https://dev.to/azure/seasonsofserverless-solution-7-the-recipe-connector-18dn)
 |                          |
 
 ## Contributing
